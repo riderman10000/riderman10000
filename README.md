@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to my Github
-### 📫 How to reach me: <b>rimeshlwagun10@gmail.com</b>
 
 <!--
 **riderman10000/riderman10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
